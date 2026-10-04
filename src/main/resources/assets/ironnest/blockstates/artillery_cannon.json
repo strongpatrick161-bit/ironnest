@@ -1,0 +1,244 @@
+{
+  "variants": {
+    "facing=north,elevation=0,loaded=false,powered=false": {
+      "model": "ironnest:block/artillery_cannon"
+    },
+    "facing=north,elevation=0,loaded=false,powered=true": {
+      "model": "ironnest:block/artillery_cannon"
+    },
+    "facing=north,elevation=0,loaded=true,powered=false": {
+      "model": "ironnest:block/artillery_cannon_loaded"
+    },
+    "facing=north,elevation=0,loaded=true,powered=true": {
+      "model": "ironnest:block/artillery_cannon_loaded"
+    },
+    "facing=north,elevation=1,loaded=false,powered=false": {
+      "model": "ironnest:block/artillery_cannon"
+    },
+    "facing=north,elevation=1,loaded=false,powered=true": {
+      "model": "ironnest:block/artillery_cannon"
+    },
+    "facing=north,elevation=1,loaded=true,powered=false": {
+      "model": "ironnest:block/artillery_cannon_loaded"
+    },
+    "facing=north,elevation=1,loaded=true,powered=true": {
+      "model": "ironnest:block/artillery_cannon_loaded"
+    },
+    "facing=north,elevation=2,loaded=false,powered=false": {
+      "model": "ironnest:block/artillery_cannon"
+    },
+    "facing=north,elevation=2,loaded=false,powered=true": {
+      "model": "ironnest:block/artillery_cannon"
+    },
+    "facing=north,elevation=2,loaded=true,powered=false": {
+      "model": "ironnest:block/artillery_cannon_loaded"
+    },
+    "facing=north,elevation=2,loaded=true,powered=true": {
+      "model": "ironnest:block/artillery_cannon_loaded"
+    },
+    "facing=north,elevation=3,loaded=false,powered=false": {
+      "model": "ironnest:block/artillery_cannon"
+    },
+    "facing=north,elevation=3,loaded=false,powered=true": {
+      "model": "ironnest:block/artillery_cannon"
+    },
+    "facing=north,elevation=3,loaded=true,powered=false": {
+      "model": "ironnest:block/artillery_cannon_loaded"
+    },
+    "facing=north,elevation=3,loaded=true,powered=true": {
+      "model": "ironnest:block/artillery_cannon_loaded"
+    },
+    "facing=east,elevation=0,loaded=false,powered=false": {
+      "model": "ironnest:block/artillery_cannon",
+      "y": 90
+    },
+    "facing=east,elevation=0,loaded=false,powered=true": {
+      "model": "ironnest:block/artillery_cannon",
+      "y": 90
+    },
+    "facing=east,elevation=0,loaded=true,powered=false": {
+      "model": "ironnest:block/artillery_cannon_loaded",
+      "y": 90
+    },
+    "facing=east,elevation=0,loaded=true,powered=true": {
+      "model": "ironnest:block/artillery_cannon_loaded",
+      "y": 90
+    },
+    "facing=east,elevation=1,loaded=false,powered=false": {
+      "model": "ironnest:block/artillery_cannon",
+      "y": 90
+    },
+    "facing=east,elevation=1,loaded=false,powered=true": {
+      "model": "ironnest:block/artillery_cannon",
+      "y": 90
+    },
+    "facing=east,elevation=1,loaded=true,powered=false": {
+      "model": "ironnest:block/artillery_cannon_loaded",
+      "y": 90
+    },
+    "facing=east,elevation=1,loaded=true,powered=true": {
+      "model": "ironnest:block/artillery_cannon_loaded",
+      "y": 90
+    },
+    "facing=east,elevation=2,loaded=false,powered=false": {
+      "model": "ironnest:block/artillery_cannon",
+      "y": 90
+    },
+    "facing=east,elevation=2,loaded=false,powered=true": {
+      "model": "ironnest:block/artillery_cannon",
+      "y": 90
+    },
+    "facing=east,elevation=2,loaded=true,powered=false": {
+      "model": "ironnest:block/artillery_cannon_loaded",
+      "y": 90
+    },
+    "facing=east,elevation=2,loaded=true,powered=true": {
+      "model": "ironnest:block/artillery_cannon_loaded",
+      "y": 90
+    },
+    "facing=east,elevation=3,loaded=false,powered=false": {
+      "model": "ironnest:block/artillery_cannon",
+      "y": 90
+    },
+    "facing=east,elevation=3,loaded=false,powered=true": {
+      "model": "ironnest:block/artillery_cannon",
+      "y": 90
+    },
+    "facing=east,elevation=3,loaded=true,powered=false": {
+      "model": "ironnest:block/artillery_cannon_loaded",
+      "y": 90
+    },
+    "facing=east,elevation=3,loaded=true,powered=true": {
+      "model": "ironnest:block/artillery_cannon_loaded",
+      "y": 90
+    },
+    "facing=south,elevation=0,loaded=false,powered=false": {
+      "model": "ironnest:block/artillery_cannon",
+      "y": 180
+    },
+    "facing=south,elevation=0,loaded=false,powered=true": {
+      "model": "ironnest:block/artillery_cannon",
+      "y": 180
+    },
+    "facing=south,elevation=0,loaded=true,powered=false": {
+      "model": "ironnest:block/artillery_cannon_loaded",
+      "y": 180
+    },
+    "facing=south,elevation=0,loaded=true,powered=true": {
+      "model": "ironnest:block/artillery_cannon_loaded",
+      "y": 180
+    },
+    "facing=south,elevation=1,loaded=false,powered=false": {
+      "model": "ironnest:block/artillery_cannon",
+      "y": 180
+    },
+    "facing=south,elevation=1,loaded=false,powered=true": {
+      "model": "ironnest:block/artillery_cannon",
+      "y": 180
+    },
+    "facing=south,elevation=1,loaded=true,powered=false": {
+      "model": "ironnest:block/artillery_cannon_loaded",
+      "y": 180
+    },
+    "facing=south,elevation=1,loaded=true,powered=true": {
+      "model": "ironnest:block/artillery_cannon_loaded",
+      "y": 180
+    },
+    "facing=south,elevation=2,loaded=false,powered=false": {
+      "model": "ironnest:block/artillery_cannon",
+      "y": 180
+    },
+    "facing=south,elevation=2,loaded=false,powered=true": {
+      "model": "ironnest:block/artillery_cannon",
+      "y": 180
+    },
+    "facing=south,elevation=2,loaded=true,powered=false": {
+      "model": "ironnest:block/artillery_cannon_loaded",
+      "y": 180
+    },
+    "facing=south,elevation=2,loaded=true,powered=true": {
+      "model": "ironnest:block/artillery_cannon_loaded",
+      "y": 180
+    },
+    "facing=south,elevation=3,loaded=false,powered=false": {
+      "model": "ironnest:block/artillery_cannon",
+      "y": 180
+    },
+    "facing=south,elevation=3,loaded=false,powered=true": {
+      "model": "ironnest:block/artillery_cannon",
+      "y": 180
+    },
+    "facing=south,elevation=3,loaded=true,powered=false": {
+      "model": "ironnest:block/artillery_cannon_loaded",
+      "y": 180
+    },
+    "facing=south,elevation=3,loaded=true,powered=true": {
+      "model": "ironnest:block/artillery_cannon_loaded",
+      "y": 180
+    },
+    "facing=west,elevation=0,loaded=false,powered=false": {
+      "model": "ironnest:block/artillery_cannon",
+      "y": 270
+    },
+    "facing=west,elevation=0,loaded=false,powered=true": {
+      "model": "ironnest:block/artillery_cannon",
+      "y": 270
+    },
+    "facing=west,elevation=0,loaded=true,powered=false": {
+      "model": "ironnest:block/artillery_cannon_loaded",
+      "y": 270
+    },
+    "facing=west,elevation=0,loaded=true,powered=true": {
+      "model": "ironnest:block/artillery_cannon_loaded",
+      "y": 270
+    },
+    "facing=west,elevation=1,loaded=false,powered=false": {
+      "model": "ironnest:block/artillery_cannon",
+      "y": 270
+    },
+    "facing=west,elevation=1,loaded=false,powered=true": {
+      "model": "ironnest:block/artillery_cannon",
+      "y": 270
+    },
+    "facing=west,elevation=1,loaded=true,powered=false": {
+      "model": "ironnest:block/artillery_cannon_loaded",
+      "y": 270
+    },
+    "facing=west,elevation=1,loaded=true,powered=true": {
+      "model": "ironnest:block/artillery_cannon_loaded",
+      "y": 270
+    },
+    "facing=west,elevation=2,loaded=false,powered=false": {
+      "model": "ironnest:block/artillery_cannon",
+      "y": 270
+    },
+    "facing=west,elevation=2,loaded=false,powered=true": {
+      "model": "ironnest:block/artillery_cannon",
+      "y": 270
+    },
+    "facing=west,elevation=2,loaded=true,powered=false": {
+      "model": "ironnest:block/artillery_cannon_loaded",
+      "y": 270
+    },
+    "facing=west,elevation=2,loaded=true,powered=true": {
+      "model": "ironnest:block/artillery_cannon_loaded",
+      "y": 270
+    },
+    "facing=west,elevation=3,loaded=false,powered=false": {
+      "model": "ironnest:block/artillery_cannon",
+      "y": 270
+    },
+    "facing=west,elevation=3,loaded=false,powered=true": {
+      "model": "ironnest:block/artillery_cannon",
+      "y": 270
+    },
+    "facing=west,elevation=3,loaded=true,powered=false": {
+      "model": "ironnest:block/artillery_cannon_loaded",
+      "y": 270
+    },
+    "facing=west,elevation=3,loaded=true,powered=true": {
+      "model": "ironnest:block/artillery_cannon_loaded",
+      "y": 270
+    }
+  }
+}

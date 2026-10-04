@@ -1,0 +1,11 @@
+{
+  "block.ironnest.artillery_cannon": "Артиллерийское орудие",
+  "item.ironnest.artillery_shell": "Артиллерийский снаряд",
+  "entity.ironnest.artillery_shell": "Артиллерийский снаряд",
+  "message.ironnest.elevation": "Угол возвышения: %s°",
+  "message.ironnest.facing": "Направление: %s",
+  "direction.ironnest.north": "север",
+  "direction.ironnest.east": "восток",
+  "direction.ironnest.south": "юг",
+  "direction.ironnest.west": "запад"
+}

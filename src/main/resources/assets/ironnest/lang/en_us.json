@@ -1,0 +1,11 @@
+{
+  "block.ironnest.artillery_cannon": "Artillery Cannon",
+  "item.ironnest.artillery_shell": "Artillery Shell",
+  "entity.ironnest.artillery_shell": "Artillery Shell",
+  "message.ironnest.elevation": "Elevation: %s°",
+  "message.ironnest.facing": "Facing: %s",
+  "direction.ironnest.north": "North",
+  "direction.ironnest.east": "East",
+  "direction.ironnest.south": "South",
+  "direction.ironnest.west": "West"
+}

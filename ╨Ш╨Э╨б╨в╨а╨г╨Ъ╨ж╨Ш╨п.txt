@@ -1,0 +1,6 @@
+1. Зарегистрируйтесь на github.com (бесплатно) и создайте новый репозиторий (New repository, можно Private).
+2. Нажмите "uploading an existing file" и перетащите в окно ВСЁ содержимое этой папки (src, build.gradle, settings.gradle, gradle.properties и папку .github). Нажмите Commit changes.
+3. Откройте вкладку Actions. Сборка стартует сама (1-5 минут). Зелёная галочка = успех.
+4. Откройте завершённый запуск, внизу в разделе Artifacts скачайте ironnest-jar (это zip, внутри ironnest-0.1.0.jar).
+5. Положите jar в папку mods (Forge 1.20.1 в TLauncher).
+Если .github не загрузилась (скрытая папка): Add file -> Create new file, в имени введите .github/workflows/build.yml и вставьте содержимое файла из этой папки.
